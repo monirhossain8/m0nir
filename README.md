@@ -6,7 +6,7 @@
 link -> https://Github.com/botolmonir
 
 ########################################
-
+~~~~~~~
 # pkg update
 # pkg upgrade
 # pkg install python2
@@ -24,6 +24,7 @@ link -> https://Github.com/botolmonir
 # username : MONIR
 # password : BABA
 *****************************************
+~~~~~~~
 Facebook ->
 https://www.facebook.com/monir.hossain.8
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
