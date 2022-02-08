@@ -4,9 +4,9 @@
 ---------------------------------------
 # My github account
 link -> https://Github.com/botolmonir
-
-########################################
 ~~~~~~~
+########################################
+
 # pkg update
 # pkg upgrade
 # pkg install python2
